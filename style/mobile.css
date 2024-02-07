@@ -1,0 +1,41 @@
+@media (max-width: 450px) {
+  #main .ratingcard {
+    width: 90%;
+    height: 320px;
+    padding: 0.8rem 1.5rem;
+    padding-top: 1.3rem;
+  }
+  #main .ratingcard .star-icon {
+    width: 40px;
+    height: 40px;
+  }
+  #main .ratingcard .title {
+    margin: 0.8rem 0rem;
+    font-size: 20px;
+  }
+  #main .ratingcard .rating {
+    width: 250px;
+    margin: 1rem auto;
+  }
+  #main .ratingcard .rating .rate {
+    width: 35px;
+    height: 35px;
+    padding-top: 8px;
+    padding-left: 14px;
+    font-size: 14px;
+  }
+  #main .ratingcard .submit-btn {
+    height: 30px;
+    font-size: 14px;
+  }
+  #main .copyright {
+    font-size: 12px;
+  }
+  #main .apperciation {
+    width: 280px;
+  }
+  #main .apperciation .thanks-desc {
+    font-size: 14px;
+    line-height: 22px;
+  }
+}/*# sourceMappingURL=mobile.css.map */

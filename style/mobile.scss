@@ -1,0 +1,43 @@
+@media (max-width: 450px) {
+  #main {
+    .ratingcard {
+      width: 90%;
+      height: 320px;
+      padding: 0.8rem 1.5rem;
+      padding-top: 1.3rem;
+      .star-icon {
+        width: 40px;
+        height: 40px;
+      }
+      .title {
+        margin: 0.8rem 0rem;
+        font-size: 20px;
+      }
+      .rating {
+        width: 250px;
+        margin: 1rem auto;
+        .rate {
+          width: 35px;
+          height: 35px;
+          padding-top: 8px;
+          padding-left: 14px;
+          font-size: 14px;
+        }
+      }
+      .submit-btn {
+        height: 30px;
+        font-size: 14px;
+      }
+    }
+    .copyright {
+      font-size: 12px;
+    }
+    .apperciation {
+      width: 280px;
+      .thanks-desc {
+        font-size: 14px;
+        line-height: 22px;
+      }
+    }
+  }
+}
